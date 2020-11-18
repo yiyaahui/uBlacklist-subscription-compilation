@@ -1,7 +1,7 @@
 
  Update weekly at 2020-11-15 08:06:09 UTC+0800
-*://baike.baidu.com/*
-*://baike.so.com/*
+*://*.baike.baidu.com/*
+*://*.baike.so.com/*
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
